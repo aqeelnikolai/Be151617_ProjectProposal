@@ -53,7 +53,7 @@ display_report() - this generates and compiles the data and will print the repor
 - The River Quality Scorer is intended for anyone like students, science teachers, environmental organizations, community groups, and members of the public who are interested in understanding river health. Many users may be able to collect water quality measurements such as pH, turbidity, temperature, and dissolved oxygen, but may not have the scientific knowledge and method required to interpret the data, aiming to help these users by simplifying water quality data into simple and understandable reports with river quality score. This educates the user and allows them to identify potential environment issues and make sensible decisions about river conservation and water management.
  
 
-- The description is then followed by the class diagram, depicting clearly what was described.
+<img width="1061" height="1500" alt="CS FLOWCHART DIAGRAM" src="https://github.com/user-attachments/assets/f798dbef-0513-41d1-ae88-e9b920fdd7d3" />
 
 ### Goals:
 
