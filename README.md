@@ -60,7 +60,8 @@ display_report() - this generates and compiles the data and will print the repor
 The application helps users evaluate and analyze river health, identify environmental concerns, and better understand how changes in water quality can affect human safety and aquatic ecosystems.
 
 
-- Objective 1:
-- Objective 2:
-- Objective n:
+- Objective 1: Design a python programming structure featuring the WaterSample, Scorer, ConcernTracker, and ReportCreator classes to ensure accurate and validated data.
+- Objective 2: We have to translate the complex parameters into a simplified format that can allow target users to interpret the environmental health metrics without requiring any advanced and prior laboratory training in order to create information accessible to everyone. 
+
+- Objective n: Integrate a comprehensive tracking system within the class (ConcernTracker) that automatically cross-references the flagged anomalies with their pollution sources and impacts to the environment, that facilitates the targeted remediation awareness. 
 
