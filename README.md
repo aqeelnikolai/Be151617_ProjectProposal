@@ -17,36 +17,36 @@ The project is needed as the River Quality Scorer turns complicated data into a 
 
 Class WaterSample
 Attributes:
-pH		- stores pH level
-Turbidity	- stores Turbidity level
-Temperature   - stores Temperature
-Dissolved_oxygen - stores dissolved oxygen levels
+pH		- stores pH level,
+Turbidity	- stores Turbidity level,
+Temperature   - stores Temperature,
+Dissolved_oxygen - stores dissolved oxygen levels,
 Methods:
-data_validation()- check if its within the measurement range
+data_validation()- check if its within the measurement range,
 data_get() - return all stored information for processing as a dictionary
 	
 Class Scorer
 Attributes: 
-Data - takes data from class WaterSample
-Healthy_ranges - User inputs their own healthy ranges as a dictionary
+Data - takes data from class WaterSample,
+Healthy_ranges - User inputs their own healthy ranges as a dictionary,
 Methods:
-calculate_score() - checks a data reading against the healthy range and minuses to the score and returns the total
+calculate_score() - checks a data reading against the healthy range and minuses to the score and returns the total,
 evaluate_parameter() - checks a data reading against the healthy range and returns the attribute that flagged it
 
 Class ConcernTracker
 Attributes:
-Identified_concerns - takes the attributes that got flagged from evaluate_parameter() from class Scorer
+Identified_concerns - takes the attributes that got flagged from evaluate_parameter() from class Scorer,
 Methods: 
-Show_concerns()-determines which measurements indicate river health problems	
-Show_effects()- describe impact (e.g. environment)
-Show_causes()-show reasons for poor measurements
+Show_concerns()-determines which measurements indicate river health problems	,
+Show_effects()- describe impact (e.g. environment),
+Show_causes()-show reasons for poor measurements,
 
 Class ReportCreator
 Attributes: 
-River_score - takes the river score total from calculate_score() from class Scorer
-Concerns - takes the output of Show_concerns from ConcernTracker
-Effect - takes the output of Show_effect from ConcernTracker
-Causes  - takes the output of Show_causesfrom ConcernTracker
+River_score - takes the river score total from calculate_score() from class Scorer,
+Concerns - takes the output of Show_concerns from ConcernTracker,
+Effect - takes the output of Show_effect from ConcernTracker,
+Causes  - takes the output of Show_causesfrom ConcernTracker,
  
 Methods:
 display_report() - this generates and compiles the data and will print the report when called
