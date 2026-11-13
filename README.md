@@ -1,12 +1,11 @@
-# CS3SY26_ProjectProposal by Aline Teresa Mendoza from CS Unit of PSHS
+# CS3SY26_ProjectProposal by Magallona, Mamutuk, Paraon, of 9 - Beryllium
 
 
-## Project Proposal Template:
-cvbbbc
-### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
-### Date (Proposal Date)  : Nov 5, 2026
+
+### Project Title or Name of the Application	: River Quality Scorer
+### Section			   	      : 9 - Beryllium
+### Group Members			    : Magallona, Mamutuk, Paraon
+### Date (Proposal Date)  : Nov 13 2026
 ### Project Description:
 
 - The River Quality Scorer is designed to score the water quality of rivers according to measured and observed characteristics of water into a 1-10 scale, along with a brief report. This application takes in user data and simplifies it into a score, helping users compare their chosen river to a healthy river. Users will input measurements that serve as factors such as pH, turbidity, temperature, dissolved oxygen, and the program will calculate a score, and infer what has happened, or what will happen to the environment based on how the score was calculated. For example, a low dissolved oxygen measurement can be caused by pollution and can cause aquatic death.
