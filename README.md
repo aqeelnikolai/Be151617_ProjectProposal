@@ -57,10 +57,10 @@ display_report() - this generates and compiles the data and will print the repor
 
 ### Goals:
 
-Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
+The application helps users evaluate and analyze river health, identify environmental concerns, and better understand how changes in water quality can affect human safety and aquatic ecosystems.
+
 
 - Objective 1:
 - Objective 2:
 - Objective n:
 
-[Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
